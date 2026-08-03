@@ -80,7 +80,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/salonipaswan22/salonipaswan22/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/salonipaswan22/salonipaswan22/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 > ℹ️ This requires a GitHub Action running in your profile repo. See setup notes at the bottom of this file.
