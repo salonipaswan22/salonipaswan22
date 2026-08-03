@@ -1,34 +1,144 @@
-<h1 align="center">Hi 👋, I'm Saloni Paswan</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salonipaswan22&label=Profile%20views&color=0e75b6&style=flat" alt="salonipaswan22" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=250&section=header&text=Saloni%20Paswan&fontSize=55&fontColor=ffffff" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salonipaswan22" alt="salonipaswan22" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+%26+DSA+Enthusiast;React+Developer;Backend+Developer;Open+Source+Learner" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on **full-stack development**
+---
 
-- 🌱 I’m currently learning **full-stack development**
+### 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/saloni-paswan](https://www.linkedin.com/in/saloni-paswan)
+- 🎓 Computer Science Student
+- 🌱 Currently learning the **MERN Stack**
+- 💻 Solving Data Structures & Algorithms in **Java**
+- 🚀 Building full-stack projects
+- 📚 Exploring backend development
+- 🎯 Goal: Software Engineer at a top product company
+- ⚡ Fun fact: I enjoy turning ideas into real-world applications
 
-- 📝 I regularly write articles on [PERSONAL GROWTH](PERSONAL GROWTH)
+---
 
-- 📫 How to reach me **salonipaswan387@gmail.com**
+### 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saloni paswan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saloni paswan" height="30" width="40" /></a>
-<a href="https://fb.com/saloni paswan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saloni paswan" height="30" width="40" /></a>
-<a href="https://instagram.com/iharipriya437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iharipriya437" height="30" width="40" /></a>
-</p>
+**Frontend**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salonipaswan22&show_icons=true&locale=en&layout=compact" alt="salonipaswan22" /></p>
+**Backend**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salonipaswan22&show_icons=true&locale=en" alt="salonipaswan22" /></p>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salonipaswan22&" alt="salonipaswan22" /></p>
+**Database**
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Programming**
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=salonipaswan22&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonipaswan22&layout=compact&theme=tokyonight&hide_border=true" width="39%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salonipaswan22&theme=tokyonight&hide_border=true" width="49%"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/salonipaswan22/salonipaswan22/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+> ℹ️ This requires a GitHub Action running in your profile repo. See setup notes at the bottom of this file.
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=salonipaswan22&theme=algolia&column=7&margin-w=10&margin-h=10" width="100%"/>
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%">
+      <h4>⭐ Netflix Clone</h4>
+      <p>React + Firebase</p>
+      <a href="#">Live Demo</a> · <a href="#">GitHub</a>
+    </td>
+    <td width="33%">
+      <h4>⭐ Spotify Clone</h4>
+      <p>React</p>
+      <a href="#">Live Demo</a> · <a href="#">GitHub</a>
+    </td>
+    <td width="33%">
+      <h4>⭐ Weather + AI App</h4>
+      <p>React · Node · OpenAI</p>
+      <a href="#">Live Demo</a> · <a href="#">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📌 Pinned Repositories
+
+- ⭐ Spotify Clone
+- ⭐ Netflix Clone
+- ⭐ Weather + AI App
+- ⭐ Portfolio Website
+- ⭐ Java DSA Solutions
+- ⭐ MERN Todo App
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+> "Code. Learn. Build. Repeat."
+
+![Profile Views](https://komarev.com/ghpvc/?username=salonipaswan22&label=Profile+Views&color=blueviolet&style=flat)
+
+</div>
